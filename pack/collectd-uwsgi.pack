@@ -1,0 +1,6 @@
+{
+    "name": "collectd-uwsgi",
+    "description": "Checks to manage our UWSGI collectd checks",
+    "path": "collectd-uwsgi",
+    "macros": {}
+}
